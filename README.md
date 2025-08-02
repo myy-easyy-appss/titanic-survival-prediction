@@ -1,4 +1,4 @@
-# titanic-survival-prediction
+# Titanic-Survival-Prediction
 ML project to predict Titanic survivors using logistic regression.
 
 # Titanic Survival Prediction 🚢
